@@ -1,0 +1,26 @@
+<annotation>
+	<folder>test</folder>
+	<filename>gonz-ddl-a1Lm99Kkqtg-unsplash.jpg</filename>
+	<path>D:\DataScience\iNeuron\DeepLearning\WindmillFaultDetection\image\test\gonz-ddl-a1Lm99Kkqtg-unsplash.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>2730</width>
+		<height>3640</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>working</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>81</xmin>
+			<ymin>1145</ymin>
+			<xmax>1759</xmax>
+			<ymax>2295</ymax>
+		</bndbox>
+	</object>
+</annotation>

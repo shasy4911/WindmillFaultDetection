@@ -1,0 +1,26 @@
+<annotation>
+	<folder>output</folder>
+	<filename>damaged_original_images.jpg_b6dfcaa8-5aec-4c45-9501-da440e49f858.jpg</filename>
+	<path>D:\DataScience\iNeuron\DeepLearning\WindmillFaultDetection\image\damaged\output\damaged_original_images.jpg_b6dfcaa8-5aec-4c45-9501-da440e49f858.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>275</width>
+		<height>183</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>faulty</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>94</xmin>
+			<ymin>53</ymin>
+			<xmax>205</xmax>
+			<ymax>136</ymax>
+		</bndbox>
+	</object>
+</annotation>

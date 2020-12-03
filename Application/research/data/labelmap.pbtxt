@@ -1,0 +1,9 @@
+item {
+  id: 1
+  name: 'faulty'
+}
+
+item {
+  id: 2
+  name: 'working'
+}

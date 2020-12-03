@@ -1,0 +1,26 @@
+<annotation>
+	<folder>damaged</folder>
+	<filename>patricio-davalos-KMdGPo1CFrU-unsplash.jpg</filename>
+	<path>D:\DataScience\iNeuron\DeepLearning\WindmillFaultDetection\image\damaged\patricio-davalos-KMdGPo1CFrU-unsplash.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>6000</width>
+		<height>4000</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>working</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1726</xmin>
+			<ymin>1037</ymin>
+			<xmax>4039</xmax>
+			<ymax>2877</ymax>
+		</bndbox>
+	</object>
+</annotation>

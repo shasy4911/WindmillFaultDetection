@@ -1,0 +1,26 @@
+<annotation>
+	<folder>test</folder>
+	<filename>thomas-reaubourg-JRUVbgJJTBM-unsplash.jpg</filename>
+	<path>D:\DataScience\iNeuron\DeepLearning\WindmillFaultDetection\image\test\thomas-reaubourg-JRUVbgJJTBM-unsplash.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>4048</width>
+		<height>2277</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>working</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>860</xmin>
+			<ymin>304</ymin>
+			<xmax>1660</xmax>
+			<ymax>1440</ymax>
+		</bndbox>
+	</object>
+</annotation>

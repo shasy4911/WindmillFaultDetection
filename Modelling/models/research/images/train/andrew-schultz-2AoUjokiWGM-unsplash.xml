@@ -1,0 +1,26 @@
+<annotation>
+	<folder>test</folder>
+	<filename>andrew-schultz-2AoUjokiWGM-unsplash.jpg</filename>
+	<path>D:\DataScience\iNeuron\DeepLearning\WindmillFaultDetection\image\test\andrew-schultz-2AoUjokiWGM-unsplash.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>6000</width>
+		<height>3376</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>working</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1326</xmin>
+			<ymin>77</ymin>
+			<xmax>3279</xmax>
+			<ymax>2691</ymax>
+		</bndbox>
+	</object>
+</annotation>

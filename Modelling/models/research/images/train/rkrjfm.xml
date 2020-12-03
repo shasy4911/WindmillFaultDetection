@@ -1,0 +1,26 @@
+<annotation>
+	<folder>damaged</folder>
+	<filename>rkrjfm.jpg</filename>
+	<path>D:\DataScience\iNeuron\DeepLearning\WindmillFaultDetection\image\damaged\rkrjfm.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>295</width>
+		<height>470</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>working</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>146</xmin>
+			<ymin>171</ymin>
+			<xmax>212</xmax>
+			<ymax>273</ymax>
+		</bndbox>
+	</object>
+</annotation>

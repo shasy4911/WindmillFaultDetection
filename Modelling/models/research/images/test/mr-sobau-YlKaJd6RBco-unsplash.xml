@@ -1,0 +1,26 @@
+<annotation>
+	<folder>test</folder>
+	<filename>mr-sobau-YlKaJd6RBco-unsplash.jpg</filename>
+	<path>D:\DataScience\iNeuron\DeepLearning\WindmillFaultDetection\image\test\mr-sobau-YlKaJd6RBco-unsplash.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>3024</width>
+		<height>4032</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>working</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>105</xmin>
+			<ymin>519</ymin>
+			<xmax>2874</xmax>
+			<ymax>2669</ymax>
+		</bndbox>
+	</object>
+</annotation>

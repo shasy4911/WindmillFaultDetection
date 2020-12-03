@@ -1,0 +1,26 @@
+<annotation>
+	<folder>test</folder>
+	<filename>malith-d-karunarathne-YDrUNC9NKc4-unsplash.jpg</filename>
+	<path>D:\DataScience\iNeuron\DeepLearning\WindmillFaultDetection\image\test\malith-d-karunarathne-YDrUNC9NKc4-unsplash.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>3968</width>
+		<height>2976</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>working</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1783</xmin>
+			<ymin>749</ymin>
+			<xmax>2688</xmax>
+			<ymax>1472</ymax>
+		</bndbox>
+	</object>
+</annotation>

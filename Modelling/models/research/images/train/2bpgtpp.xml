@@ -1,0 +1,26 @@
+<annotation>
+	<folder>damaged</folder>
+	<filename>2bpgtpp.jpg</filename>
+	<path>D:\DataScience\iNeuron\DeepLearning\WindmillFaultDetection\image\damaged\2bpgtpp.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>300</width>
+		<height>470</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>faulty</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>111</xmin>
+			<ymin>159</ymin>
+			<xmax>266</xmax>
+			<ymax>352</ymax>
+		</bndbox>
+	</object>
+</annotation>

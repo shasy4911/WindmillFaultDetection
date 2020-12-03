@@ -1,0 +1,26 @@
+<annotation>
+	<folder>test</folder>
+	<filename>jan-kopriva-emOTmBXaxis-unsplash.jpg</filename>
+	<path>D:\DataScience\iNeuron\DeepLearning\WindmillFaultDetection\image\test\jan-kopriva-emOTmBXaxis-unsplash.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>2647</width>
+		<height>3978</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>working</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>592</xmin>
+			<ymin>373</ymin>
+			<xmax>1680</xmax>
+			<ymax>3542</ymax>
+		</bndbox>
+	</object>
+</annotation>

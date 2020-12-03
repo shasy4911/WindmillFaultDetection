@@ -1,0 +1,26 @@
+<annotation>
+	<folder>test</folder>
+	<filename>carissa-rogers-AvcEAILWYNE-unsplash.jpg</filename>
+	<path>D:\DataScience\iNeuron\DeepLearning\WindmillFaultDetection\image\test\carissa-rogers-AvcEAILWYNE-unsplash.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>3500</width>
+		<height>2625</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>working</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>290</xmin>
+			<ymin>662</ymin>
+			<xmax>1710</xmax>
+			<ymax>2202</ymax>
+		</bndbox>
+	</object>
+</annotation>
